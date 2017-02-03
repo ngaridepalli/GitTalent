@@ -1,0 +1,10 @@
+git commands
+
+git clone https://github.com/ngaridepalli/BasicPython.git
+git status #displays latest status if anything not yet commited
+git add .
+git status #displays latest status if anything not yet commited
+git commit -m <"comments">
+git push --all  # it pushes all
+git <Command> --help
+
