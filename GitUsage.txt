@@ -8,3 +8,15 @@ git commit -m <"comments">
 git push --all  # it pushes all
 git <Command> --help
 
+
+Forking more than one repo at a time into a local folder
+
+1)Create .cmd file with following lines
+git clone https://github.rackspace.com/<ORG>/A.git
+git clone https://github.rackspace.com/<ORG>/B.git
+git clone https://github.rackspace.com/<ORG>/C.git
+git clone https://github.rackspace.com/<ORG>/D.git
+git clone https://github.rackspace.com/<ORG>/E.git
+git clone https://github.rackspace.com/<ORG>/F.git
+
+Execute this .cmd file from GitShell
